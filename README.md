@@ -1,4 +1,4 @@
-# Support makers launching on Product Hunt
+# Support makers launching on Product Hunt 🚀
 
 Guide to get an email every time someone you follow on Twitter is launching anything on Product Hunt 
 
